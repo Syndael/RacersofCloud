@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Racers of Cloud</string>
+    <string name="str_frg_titulo_piloto">Piloto</string>
+    <string name="str_frg_titulo_tuercas">trcs</string>
+    <string name="str_frg_titulo_trofeos">trfs</string>
+    <string name="str_frg_titulo_equipo">team</string>
+
+    <string name="str_frg_menu_home">Inicio</string>
+    <string name="str_frg_menu_correr">Carreras</string>
+    <string name="str_frg_menu_taller">Taller</string>
+    <string name="str_frg_menu_configuracion">Configuración</string>
+    <string name="piloto">piloto</string>
+    <string name="coche">coche</string>
+    <string name="degradadoBl">degradadoBl</string>
+    <string name="degradcadoNe">degradadoNe</string>
+    <string name="escudo">escudo</string>
+    <string name="nomPil">Nombre Piloto</string>
+    <string name="nomEqu">Nombre Equipo</string>
+    <string name="nomCoch">Nombre Coche</string>
+    <string name="escEq">Escudo del Equipo</string>
+    <string name="codClan">Código de Clan</string>
+    <string name="clanIns">Introduce un código de Clan para jugar con tus amigos (Debéis tener todos el mismo)</string>
+
+    <string name="btg">Guardar</string>
+    <string name="aux">TextView</string>
+    <string name="race">race</string>
+    <string name="tienda">Comprar Piezas</string>
+    <string name="piezas">Piezas Montadas Actualmente</string>
+
+    <string name="confIni1">En la sección Carreras podrás competir con tu piloto para llegar a lo más alto.</string>
+    <string name="confIni2">Compite y gana tuercas para mejorar tu piloto y coche en el Taller.</string>
+    <string name="confIni3">Pulsa en el icono del Trofeo en la parte superior para ver el Top 10 pilotos.</string>
+    <string name="confIni4">Cada día podrás comprar 5 nuevas piezas en la Tienda, ubicada dentro del Taller de Coches.</string>
+    <string name="confIni5">En la configuración podrás cambiar tu nombre del piloto, escuderia, coche y añadir una imagen de equipo.</string>
+</resources>
